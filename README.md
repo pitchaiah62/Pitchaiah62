@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**pitchaiah62/Pitchaiah62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm pitchaiah 
 
-Here are some ideas to get you started:
+I'm a recent AI/ML graduate from Hyderabad, passionate about building practical solutions with Large Language Models. 
+I have a unique background combining Mechanical Engineering with Artificial Intelligence, and I'm excited about the future of Generative AI. 
+I am actively seeking remote or on-site opportunities to apply my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Key Skills:**
+* Prompt Engineering
+* Python 
+* Generative AI Concepts
+* Machine Learning Basics
+
+**Connect with me:**
+* [My LinkedIn Profile]( https://www.linkedin.com/in/pitchaiah-sakamuri) 
+
