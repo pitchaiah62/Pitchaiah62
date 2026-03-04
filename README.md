@@ -1,88 +1,64 @@
+# Hi 👋 I'm Pitchaiah Sakamuri
 
-�
-Hi 👋, I'm Pitchaiah Sakamuri
+### 🤖 Generative AI Enthusiast | Prompt Engineer | AI Project Builder
 
-🤖 Generative AI Enthusiast | Prompt Engineer | AI Project Builder
+📍 Hyderabad, India | Open to Remote Opportunities
 
+---
 
-�
-￼ 
+## 🙋‍♂️ About Me
+- 🎓 B.Tech in **AI & ML** — Narasaraopeta Institute of Technology
+- 🔨 Building real AI tools using **Google Gemini API**
+- 💡 Background: Mechanical Engineering → AI/ML
+- 📫 Email: sakamuripitchaiah62@gmail.com
+- 🤝 Looking for: **AI Intern | Prompt Engineer | Junior AI Developer**
 
+---
 
-🙋‍♂️ About Me
-🎓 B.Tech in Artificial Intelligence & Machine Learning — Narasaraopeta Institute of Technology
-🌱 Passionate about Generative AI, Prompt Engineering & LLM Applications
-🔨 I build practical AI tools using Google Gemini API & ChatGPT
-📍 Based in Hyderabad, India — Open to Remote Opportunities
-💡 Unique background: Mechanical Engineering → AI/ML
-📫 Reach me at: sakamuripitchaiah62@gmail.com
-🤝 Open to: AI Intern | Prompt Engineer | Junior AI Developer roles
-🛠️ My Skills
-🤖 Generative AI & Prompt Engineering
-�
-�
-�
-Load image
-Load image
-Load image
-💻 Programming & Tools
-�
-�
-�
-Load image
-Load image
-Load image
-🧠 Prompt Engineering Skills
-✅ Zero-shot & Few-shot Prompting
-✅ Role-based Prompting
-✅ Chain of Thought Prompting
-✅ Output Control & Formatting
-✅ API Integration (Gemini, OpenAI)
-🚀 My Projects
-🔍 AI Resume Analyzer
-Analyzes resumes against job descriptions using Prompt Engineering
-📌 Calculates ATS match score
-📌 Identifies missing keywords
-📌 Suggests specific rewrites with before/after examples
-🔗 View Project
-🎬 YouTube Video Summarizer
-Summarizes YouTube videos into key bullet points using Google Gemini API
-📌 Built with Python & Streamlit
-📌 Powered by Google Gemini AI
-📌 Clean and simple UI
-🔗 View Project
-📚 Prompt Engineering Cookbook
-A curated portfolio of professional prompts and real case studies
-📌 Advanced prompt formats & strategies
-📌 Few-shot, role-based, output-controlled prompts
-📌 Real examples with systematic testing
-🔗 View Project
-🗺️ Hyderabad Day Planner
-AI-powered planner with weather-based activity recommendations
-📌 Real-time weather API integration
-📌 AI prompt logic for human-friendly output
-🔗 View Project
-📊 GitHub Stats
-�
-￼ 
+## 🛠️ Skills
+- ✅ Prompt Engineering (Zero-shot, Few-shot, Role-based)
+- ✅ Google Gemini API & OpenAI API
+- ✅ Python Basics
+- ✅ Streamlit
+- ✅ AI Workflow Design & Automation
+- ✅ LLM-based Content Generation
 
+---
 
-�
-￼ 
+## 🚀 Projects
 
+### 🔍 [AI Resume Analyzer](https://github.com/pitchaiah62/ai-resume-analyzer)
+- Analyzes resumes against job descriptions
+- Calculates ATS match score out of 100
+- Identifies missing keywords
+- Suggests rewrites with before/after examples
 
-🏆 Certifications
-📜 Prompt Engineering with ChatGPT — LinkedIn Learning
-🤝 Connect With Me
-�
-￼ ￼ ￼ 
+### 🎬 [YouTube Video Summarizer](https://github.com/pitchaiah62/youtube-video-summarizer)
+- Summarizes YouTube videos using Google Gemini API
+- Built with Python & Streamlit
+- Clean and simple UI
 
+### 📚 [Prompt Engineering Cookbook](https://github.com/pitchaiah62/prompt-engineering-cookbook-or-ai-prompt-portfolio)
+- Portfolio of professional prompts and case studies
+- Few-shot, role-based, output-controlled prompts
+- Real examples with systematic testing
 
-�
-￼ 
+### 🗺️ [Hyderabad Day Planner](https://github.com/pitchaiah62/hyderabad-day-planner)
+- AI-powered planner with weather-based recommendations
+- Real-time API integration
 
+---
 
-�
-⭐ Open to AI internships and junior AI developer roles — Remote or Hyderabad! ⭐
+## 🏆 Certifications
+- 📜 Prompt Engineering with ChatGPT — LinkedIn Learning
 
+---
 
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/pitchaiah-sakamuri-999b22272)
+- 📧 sakamuripitchaiah62@gmail.com
+- 🐙 [GitHub](https://github.com/pitchaiah62)
+
+---
+
+⭐ **Open to AI internships and junior AI roles — Remote or Hyderabad!** ⭐
